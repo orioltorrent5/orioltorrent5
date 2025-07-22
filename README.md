@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Indaleccius
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orioltorrent5&layout=compact&&langs_count=8&theme=dark&bg_color=0d1117&title_color=7C7C7B&icon_color=FFA07A&text_color=A9A9A9&border_color=4E4E4E)](https://github.com/anuraghazra/github-readme-stats)
 <br>
